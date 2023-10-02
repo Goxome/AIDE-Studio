@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "msg": "success",
+  "time": 0,
+  "data": {
+    "versionCode": 2,
+    "versionName": "1.1",
+    "file": "https://github.com/goxome/aide-studio/raw/main/resources/libaapt2.so"
+  }
+}
