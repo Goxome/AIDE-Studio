@@ -5,7 +5,7 @@
 "default":{
 "v17":"https:\/\/api.aidepro.top\/files\/OTI0MTUxNDI2NTEzMTUzMzY=?type=2",
 "v17_x64":"https:\/\/api.aidepro.top\/files\/OTIzNzUxNDI1Njg1NzkxMTM=?type=2",
-"v24":"https:\/\/api.aidepro.top\/files\/NDI1MjExNDYyMDMwMTk3NTU=?type=2"
+"v24":"https://github.com/Goxome/AIDE-Studio/releases/download/v20250105/Gradle_NDK_24.0.8215888.tar.xz"
 },
 "gradle":{
 "v17":"https:\/\/api.aidepro.top\/files\/NDIzNTQzNDI2NDIyNTI4MjU=?type=2",
