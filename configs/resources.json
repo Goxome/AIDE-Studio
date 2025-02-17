@@ -1,95 +1,30 @@
 {
- "code": 200,
+  "code": 200,
   "data": {
-"ndk":{
-"default":{
-"v17":"https:\/\/api.aidepro.top\/files\/OTI0MTUxNDI2NTEzMTUzMzY=?type=2",
-"v17_x64":"https:\/\/api.aidepro.top\/files\/OTIzNzUxNDI1Njg1NzkxMTM=?type=2",
-"v24":"https:\/\/github.com\/Goxome\/AIDE-Studio\/releases\/download\/v20250105\/Gradle_NDK_24.0.8215888.tar.xz"
-},
-"gradle":{
-"v17":"https:\/\/api.aidepro.top\/files\/NDIzNTQzNDI2NDIyNTI4MjU=?type=2",
-"v21":"https:\/\/api.aidepro.top\/files\/NzIzNTQzNDI2NDIyNTI4MjI=?type=2",
-"v24":"https:\/\/api.aidepro.top\/files\/NzI0ODYxNDUwODgwMzU5NjM=?type=2"
-}},
-
-"docs":{
-"android":"https:\/\/api.aidepro.top\/files\/ODI1MjExNDMzNjIyNzEwNzQ=?type=2",
-"java":"https:\/\/api.aidepro.top\/files\/MTI1MjExNDMzNjE5MTQ2MjA=?type=2",
-"phonegap":"https:\/\/api.aidepro.top\/files\/MzI1MTcxNDMzNjIwNDg3MDU=?type=2"
-},
-"templates":{
-"java":"https:\/\/api.aidepro.top\/files\/N2NlaHAyYWY3NTM0N2RiZTk0ZWM4YjNmMDk5NTU5ZGQzYTMwZA==?type=1",
-"android":{
-"default":"https:\/\/api.aidepro.top\/files\/N2NlaHAzZDZlOTI3ZDJhYTA0NmQzYjRmNmNkYmQ3YThkMTQ1ZA==?type=1",
-"appcompat":"https:\/\/api.aidepro.top\/files\/N2NlaHA3NjY4ZWZlNDJjNjc0NmZmYjM2MGU3ODAwMzVlNTI0OQ==?type=1",
-"androidx":"https:\/\/api.aidepro.top\/files\/N2NlaHA3ODU4YzU3ZTM3NTY0YjAzYWUyMGE2Yzk0NDI3NDA3Mg==?type=1",
-"androidx_2":"https:\/\/api.aidepro.top\/files\/N2NlaHAxZDRlMjMzN2IwMTg0OTAyOTA4NWMzYWQ4ZWJmNzJjMQ==?type=1",
-"gradle":"https:\/\/api.aidepro.top\/files\/N2NlaHA3YmY0YzNhMzM2YWI0ODllOTE2OWM5MTg3MWM3YjhhZA==?type=1",
-"gradle_2":"https:\/\/api.aidepro.top\/files\/N2NlaHBmNjk2ZGE5ZjA5YTY0NDhjOTAzYTMzNmM0MWI1MzQwMQ==?type=1",
-"gradle_library":"https:\/\/api.aidepro.top\/files\/N2NlaHA2ZjU0YzlmMWI0MjA0NjEzYjVhM2MxZTA2MTIxMmMyZg==?type=1",
-"gradle_flavor":"https:\/\/api.aidepro.top\/files\/N2NlaHA1Zjk2MGQ0MWVlZGI0ZDQwYjc0MGI3M2NhZDZjOWZhNg==?type=1",
-"xposed":"https:\/\/api.aidepro.top\/files\/N2NlaHBjMjU0ZGVlYmJkNDI0NTQyYjhhMjNlMzNhZGNhNTliYg==?type=1",
-"ndk":"https:\/\/api.aidepro.top\/files\/N2NlaHBjZjEzZTg2NWFiZmU0YzU4OWRlZGQxMjE3MWRlZDI5NQ==?type=1",
-"wear":"https:\/\/api.aidepro.top\/files\/N2NlaHBhMTI5N2U3OGNjNzE0MDRkOTI0OGI2YzVjODMzYTM1Mg==?type=1"
-},
-"cpp":"https:\/\/api.aidepro.top\/files\/N2NlaHAyNTdjZWYxNDExYjM0MTNiYmNhZjk1YWQ2YmM2NjUwZg==?type=1",
-"javascript":"https:\/\/api.aidepro.top\/files\/N2NlaHBlY2Q1YzQ4YWVmZWY0MTczOGVkMjhhZGZkZWIxN2QwYw==?type=1",
-"website":{
-"default":"https:\/\/api.aidepro.top\/files\/N2NlaHBjODJmNjhjNzEyYzg0YzEyODIwNTU1N2RhNDQ4MzVlOA==?type=1",
-"bootstrap":"https:\/\/api.aidepro.top\/files\/N2NlaHBjZDdiYjcyYzk0ZGY0OWVhYmFjODkzOWZlYmRmZmE2OA==?type=1"
-}},
-
-"course":{
-"java":{
-"default":"url",
-"packages":"url",
-"native_interface":"url"
-},
-"android":{
-"default":"https:\/\/api.aidepro.top\/files\/N2NlaHBjYTNiMjhmZDNiNzc0ZjJkYTAwOGM4ZDhiMGI0NzA4OA==?type=1",
-"default_2":"https:\/\/api.aidepro.top\/files\/N2NlaHAyNTdhY2EyYzk2ZjY0MTg3YWE3NGE3MGQ0NjBiYjY3NQ==?type=1",
-"graphics":"https:\/\/api.aidepro.top\/files\/N2NlaHAxNmE2ZjhlZTcwOTA0OGY2OWY3ZjNjODIyNzU5YzdkNg==?type=1"
-},
-"ndk":"https:\/\/api.aidepro.top\/files\/N2NlaHA5MTY5MmM2ZjBlMzk0OTc2YjIwMTg4MmJmMmUzZjczYw==?type=1",
-"game":{
-"default":"https:\/\/api.aidepro.top\/files\/N2NlaHBiNzQzYjc0ZWUzNDY0ZWEyOWQ3MDg2ZjlhMDcxZGZhNw==?type=1",
-"drop_game":"https:\/\/api.aidepro.top\/files\/N2NlaHA3OWUwYjNjMTU2MTI0MGY5YjUwMDhkMzRjZDI4ZTkzOA==?type=1",
-"run_game":"https:\/\/api.aidepro.top\/files\/N2NlaHA4ZThlNzMwYTBmOGE0OGY1ODYyZjA0ZWI5Mjk4MjcyYg==?type=1"
-},
-"cpp":"https:\/\/api.aidepro.top\/files\/N2NlaHBlYzkwNDEwNThhN2E0OGU1YTNlZGRmZTU0MWEyNTNhNw==?type=1",
-"javascript":"https:\/\/api.aidepro.top\/files\/N2NlaHA0ZDQ5MjIxNTJiMGY0ZTczYjExMjYzYmViZjJjNDU0Yg==?type=1",
-"web":{
-"default":"https:\/\/api.aidepro.top\/files\/N2NlaHBjYjEzOWRkNGQ1ZWI0OTdkOTYzNzNlYmUxZDJjNDJhYw==?type=1",
-"images":"https:\/\/api.aidepro.top\/files\/N2NlaHBiMDFhYmE0OTUxYWE0Y2U0ODY0MWUwN2QzZmVmODhlYQ==?type=1"
-}},
-
-"android.jar":{
-"v25":"url",
-"v26":"url",
-"v27":"url",
-"v28":"url",
-"v29":"url",
-"v30":"url",
-"v31":"url",
-"v32":"url",
-"v33":"url"
-},
-
-"gradle":"https:\/\/api.aidepro.top\/files\/MTIzNjUxNDI1NjgyNTU3NTI=?type=2",
-"r8":"https:\/\/api.aidepro.top\/files\/N2NlaHA4OTRmNzMwYTUyZDk0MWMzYjBhMzMxZDhlOWY2ZjAyMA==?type=1",
-"icon":"https:\/\/api.aidepro.top\/files\/N2NlaHA0OTg2NDI1MzA0MDI0OGFiOGQzZTZiNWQ2YWYwYjE4NQ==?type=1",
-
-"apk":{
-"md_icon":"https:\/\/api.aidepro.top\/files\/N2NlaHBhMDQ2ZDY0Yjc2Y2M0MTg5YmEwNzVjYzcxZDcxOWFlZA==?type=1",
-"json2bean":"https:\/\/api.aidepro.top\/files\/N2NlaHAzZjIwZjMzMzVmNDY0MTdiOGEyMGY3YzQyNzI5YWNlOQ==?type=1",
-"functions":"https:\/\/api.aidepro.top\/files\/N2NlaHAwYWI0YWI1OTgyOTM0YjAwOTNmZjEyM2IxNjM4ZjUzMA==?type=1"
-},
-
-"bundletool":{
-"1.6.1":"https:\/\/api.aidepro.top\/files\/dXl2MHRhMmE3Y2FjMmQ0YTg0NDJhYTU2YTU4OTEzMDBiMjFjMg==?type=1",
-"1.14.0":"https:\/\/api.aidepro.top\/files\/dXl2MHQzZDE0Y2E1MDNiMTc0YzNhYjYyZjViNzk0NTQ2ZDk0NQ==?type=1"
-}
-
-}
+    "apk": {
+      "functions": "https://api.androidide.cn/pro/file/1234567890/1/download",
+      "icon": "https://api.androidide.cn/pro/file/723281150652876755/1/download",
+      "json2bean": "https://api.androidide.cn/pro/file/625351150652698675/1/download"
+    },
+    "docs": {
+      "android": "https://api.androidide.cn/pro/file/523491150652994835/3/download",
+      "java": "https://api.androidide.cn/pro/file/224581150652508316/3/download",
+      "phonegap": "https://api.androidide.cn/pro/file/824271150652677219/3/download"
+    },
+    "gradle": "https://api.androidide.cn/pro/file/925213150612341979/3/download",
+    "ndk": {
+      "default": {
+        "v17": "https://api.androidide.cn/pro/file/624073150613772250/3/download",
+        "v17_x64": "https://api.androidide.cn/pro/file/724073150613772247/3/download",
+        "v24": "https://api.androidide.cn/pro/file/224073150613772244/3/download"
+      },
+      "gradle": {
+        "v17": "https://api.androidide.cn/pro/file/224073150613772259/3/download",
+        "v21": "https://api.androidide.cn/pro/file/824271150613772256/3/download",
+        "v24": "https://api.androidide.cn/pro/file/724073150613772262/3/download"
+      }
+    }
+  },
+  "message": "success",
+  "time": 1739754968
 }
