@@ -1,6 +1,6 @@
 {
-"data":{
-
+ "code": 200,
+  "data": {
 "ndk":{
 "default":{
 "v17":"https:\/\/api.aidepro.top\/files\/OTI0MTUxNDI2NTEzMTUzMzY=?type=2",
