@@ -1,6 +1,6 @@
 {
   "Gradle_NDK_24": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250105/Gradle_NDK_24.0.8215888.tar.xz",
-  "Gradle_NDK_25": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250105/Gradle_NDK_25.0.8215888.tar.xz",
-  "Gradle_NDK_26": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250110/Gradle_NDK_26.0.8215888.tar.xz",
-  "Gradle_Only_8.5": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250110/Gradle_Only_8.5.tar.xz"
+  "Gradle_NDK_25_SOON": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250105/Gradle_NDK_25.0.8215888.tar.xz",
+  "Gradle_NDK_26_SOON": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250110/Gradle_NDK_26.0.8215888.tar.xz",
+  "Gradle_Only_8.5_SOON": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250110/Gradle_Only_8.5.tar.xz"
 }
