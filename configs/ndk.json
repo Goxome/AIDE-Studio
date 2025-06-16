@@ -1,4 +1,5 @@
 {
-  "v17_x64": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250105/Gradle_NDK_24.0.8215888.tar.xz",
-  "v24": "https://link-to-v24"
+  "v17": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_r17_arm.tar.gz",
+  "v17_x64": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_r17_arm64.tar.gz",
+  "v24": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_r24.tar.xz"
 }
