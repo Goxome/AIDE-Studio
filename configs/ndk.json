@@ -1,5 +1,5 @@
 {
-  "v17": "https://github.com/goxome/aide-studio/releases/download/ndk_res/ndk_r17_arm.tar.gz",
+  "v17": "xhttps://github.com/goxome/aide-studio/releases/download/ndk_res/ndk_r17_arm.tar.gz",
   "v17_x64": "https://github.com/goxome/aide-studio/releases/download/ndk_res/ndk_r17_arm64.tar.gz",
   "v24": "https://github.com/goxome/aide-studio/releases/download/ndk_res/ndk_r24.tar.xz"
 }
