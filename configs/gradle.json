@@ -1,6 +1,7 @@
 {
-  "Gradle_NDK_24": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250105/Gradle_NDK_24.0.8215888.tar.xz",
-  "Gradle_NDK_25_SOON": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250105/Gradle_NDK_25.0.8215888.tar.xz",
-  "Gradle_NDK_26_SOON": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250110/Gradle_NDK_26.0.8215888.tar.xz",
-  "Gradle_Only_8.5_SOON": "https://github.com/Goxome/AIDE-Studio/releases/download/v20250110/Gradle_Only_8.5.tar.xz"
+  "Gradle_NDK_v17": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_17.2.4988734.tar.xz",
+  "Gradle_NDK_v21": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_21.0.6113669.tar.xz",
+  "Gradle_NDK_v24": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_24.0.8215888.tar.xz",
+  "Gradle_NDK_v28": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_28.0.6113669.tar.xz",
+  "Gradle_Only_30_SOON": "https://raw.githubusercontent.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_30.0.6113669.tar.xz"
 }
